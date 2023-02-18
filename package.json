@@ -1,0 +1,28 @@
+{
+  "name": "@braden1996/tsconfig",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braden1996/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "braden1996"
+  ],
+  "author": "Braden Marshall <braden1996@hotmail.co.uk>",
+  "license": "MIT",
+  "homepage": "https://github.com/braden1996/tsconfig",
+  "bugs": {
+    "url": "https://github.com/braden1996/tsconfig/issues"
+  },
+  "files": [
+    "base.json",
+    "node.json",
+    "react-dom-library.json",
+    "react-dom.json",
+    "react-library.json",
+    "react-native-library.json",
+    "react-native.json"
+  ],
+  "packageManager": "npm@8.19.3"
+}
