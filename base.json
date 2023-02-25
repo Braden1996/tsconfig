@@ -8,18 +8,19 @@
     "declarationMap": true,
     "esModuleInterop": true,
     "inlineSources": false,
-    "isolatedModules": true,
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
     "noErrorTruncation": true,
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": true,
-    "noUnusedLocals": true,
-    "strict": true,
     "preserveWatchOutput": true,
     "pretty": true,
     "allowJs": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "strict": true,
+    "isolatedModules": true,
+    "importsNotUsedAsValues": "error",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true
   },
   "exclude": [
     "node_modules"
